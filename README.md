@@ -1,1 +1,2 @@
 # Baseball_Payroll
+This was my final project for my Econometrics course at Case Wetern Reserve University. This project revolved around creating an econometrics model to determine whether an MLB team increasing payroll leads to more wins. My full report can be found in Econ_Research_Paper.docx and the summary presentation in Baseball_Payroll.pptx. I originally conducted the analysis in Stata, but I no longer have the file saved (or have access to Stata), so I recreated the basic analysis in R.
